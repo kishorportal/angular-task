@@ -1,0 +1,30 @@
+.card-header{
+    background: #fff;
+    color: red;
+    font-size: 18px;
+    font-weight: 600;
+    padding:8px 10px !important;
+}
+.table thead th{
+    border:0px !important;
+    border-bottom: 1px solid #ccc !important;
+    padding:8px 10px !important;
+}
+.table tbody td{
+    border:0px !important;
+    padding:8px 10px !important;
+    font-size:14px;
+    color:#000;
+    font-weight: 500;
+}
+.btn-success{
+    padding:2px 8px !important;
+    font-size: 14px;
+    cursor: pointer !important;
+}
+.btn-default{
+    padding:2px 8px !important;
+    font-size: 14px;
+    border:1px solid #ccc;
+    cursor: text !important;
+}

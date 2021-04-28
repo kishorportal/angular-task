@@ -1,0 +1,9 @@
+.app-header{
+    background:linear-gradient(to right, #c51010 , #4e383c);
+    width:100%;
+}
+.navbar-brand{
+    color:#fff;
+    font-size: 18px;
+    font-weight: 600;
+}
